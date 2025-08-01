@@ -24,7 +24,7 @@ This is a simple Python-based interpreter that converts characters into a unique
 
 1. Clone the repository:
 
-```bash
+``bash
 git clone https://github.com/VERSE-Web/Custom-python-Word-interpreter-with-custom-set-id-s.git
 cd Custom-python-Word-interpreter-with-custom-set-id-s
 Run the interpreter:
