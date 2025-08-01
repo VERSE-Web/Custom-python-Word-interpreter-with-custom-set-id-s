@@ -1,0 +1,12 @@
+[project]
+name = "custom-python-interpreter"
+version = "1.0.0"
+description = "A Python project where the interpreter fetches matching data from data.py and returns custom IDs."
+authors = [{name = "Mehran-Ul Islam"}]
+license = "MIT"
+
+[project.optional-dependencies]
+dev = []
+
+[tool.python]
+requires-python = ">=3.11"
